@@ -75,6 +75,17 @@
         ]
       }
     },
+    "brand-sop-skill": {
+      "sha": "6192cf07c7b41c0a04c358ad3cdb6617270889b1",
+      "version": "1.0.0",
+      "components": {
+        "skills": [
+          {
+            "name": "brand-sop-skill"
+          }
+        ]
+      }
+    },
     "browser-use": {
       "sha": "264716fe9f4e24557e20d27ec6debef34d7387f1",
       "version": "0.1.1",

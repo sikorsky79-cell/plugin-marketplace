@@ -487,6 +487,21 @@
       "homepage": "https://docs.expo.dev/agents/",
       "keywords": ["expo"],
       "domains": ["expo.dev", "docs.expo.dev", "expo.io"]
+    },
+    {
+      "name": "brand-sop-skill",
+      "description": "Brand planning SOP fill-in worksheets: strategy, GTM, budgets, media schedules, briefs, and retrospectives as Excel or Markdown tables.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/sikorsky79-cell/brand-sop-skill.git",
+        "sha": "6192cf07c7b41c0a04c358ad3cdb6617270889b1"
+      },
+      "homepage": "https://github.com/sikorsky79-cell/brand-sop-skill",
+      "keywords": ["brand-sop-skill", "brand sop", "brand planning sop"],
+      "author": {
+        "name": "拨浪鼓（ORRA）"
+      }
     }
   ]
 }
