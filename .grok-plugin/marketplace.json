@@ -487,6 +487,21 @@
       "homepage": "https://docs.expo.dev/agents/",
       "keywords": ["expo"],
       "domains": ["expo.dev", "docs.expo.dev", "expo.io"]
+    },
+    {
+      "name": "vpn-build-agent",
+      "description": "Self-hosted VPN setup assistant: needs intake, host selection, anti-interference protocol deploy, client subscriptions, and traffic guardrails.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/sikorsky79-cell/vpn-setup-agent-agent.git",
+        "sha": "d595a40b45baadeea4c142224e2b388b9c95a008"
+      },
+      "homepage": "https://github.com/sikorsky79-cell/vpn-setup-agent-agent",
+      "keywords": ["vpn-build-agent", "vpn setup agent", "self-hosted vpn setup"],
+      "author": {
+        "name": "拨浪鼓（ORRA）"
+      }
     }
   ]
 }

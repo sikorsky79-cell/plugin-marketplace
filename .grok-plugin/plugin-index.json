@@ -1846,6 +1846,22 @@
         ]
       }
     },
+    "vpn-build-agent": {
+      "sha": "d595a40b45baadeea4c142224e2b388b9c95a008",
+      "version": "1.0.0",
+      "components": {
+        "skills": [
+          {
+            "name": "vpn-build-flow",
+            "description": "Use when guiding a user through self-hosted anti-censorship VPN setup from cloud selection to subscription delivery and…"
+          },
+          {
+            "name": "vpn-getting-started",
+            "description": "First conversation for a newly imported VPN setup bot: learn the owner's needs then start the build flow."
+          }
+        ]
+      }
+    },
     "wix": {
       "sha": "960f5be381b282de7ab6f02c67859ac6ead03e9b",
       "version": "1.41.3",
